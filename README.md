@@ -1,6 +1,6 @@
 # datafs-sdk
 
-Browser and Node tracker for a self-hosted [DataFS](https://github.com/oivoodoo/datafs) install. MIT.
+Browser and Node tracker for a self-hosted [DataFS](https://github.com/datarockfs/datafs) install. MIT.
 
 The server repo is private. The HTTP contract this package calls is in `API.md`.
 
